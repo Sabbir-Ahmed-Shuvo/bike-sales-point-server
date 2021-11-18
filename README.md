@@ -1,23 +1,21 @@
-# Alpha Sunglasses Yard
+# Bike Sales Point
 
 ## Description:
 
-<p>
-This site is all about a sunglasses selling store which name is Alpha Sunglasses Yard. From this site a visitor can order many stylish sunglasses in a cheap rate with best quality.
-<p>
+This site is all about a bike selling shop which name is Bike Sales Point. From this site a visitor can order many stylish bike in a cheap rate.
 
-#### To visit the client side: [Click here](https://alpha-sunglasses-yard.web.app/).
+#### To visit the client side: [Click here](https://bike-sales-point.web.app/).
 
 or,
 
-#### To visit the server side: [Click here](https://alpha-sunglasses-yard-server.herokuapp.com/).
+#### To visit the server side: [Click here](https://aqueous-plains-63924.herokuapp.com/).
 
 ### Little bit description about this website:
 
 <ul>
-    <li>This website represents a sunglasses selling store.</li>
+    <li>This website represents a bike selling store.</li>
     <li>I use firebase for user authentication.</li>
     <li>I use mongodb for storing data.</li>
-    <li>I put both admin and a normal user route.</li>
+    <li>I put both admin and a normal user route private.</li>
     <li>Only a logged in user or admin is allowed access the dashboard.</li>
 </ul>
